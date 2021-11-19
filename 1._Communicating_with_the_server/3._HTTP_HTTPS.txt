@@ -15,3 +15,6 @@ Created Monday 25 October 2021
 === What ===
 HTTP - HyperText Transfer Protocol
 This is used for communicating with the server.
+
+FIXME - add HTTP details
+Last 15 (6 + 9 videos) https://classroom.udacity.com/courses/ud171/lessons/8237341161/concepts/last-viewed
