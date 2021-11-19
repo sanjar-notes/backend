@@ -11,6 +11,7 @@ Created Monday 25 October 2021
 
 === How ===
 * A simple way to do this using a request-response model.
+
 === What ===
 HTTP - HyperText Transfer Protocol
 This is used for communicating with the server.
