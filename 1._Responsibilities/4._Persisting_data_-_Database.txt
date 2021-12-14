@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-10-25T23:01:59+05:30
+
+====== 4. Persisting data - Database ======
+Created Monday 25 October 2021
+
+Useful: https://classroom.udacity.com/courses/ud197
