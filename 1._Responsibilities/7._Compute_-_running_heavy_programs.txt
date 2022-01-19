@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-10-26T14:47:01+05:30
-
-====== 7. Compute - running heavy programs ======
-Created Tuesday 26 October 2021
-

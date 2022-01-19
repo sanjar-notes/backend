@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.6
-Creation-Date: 2021-10-25T23:01:33+05:30
-
-====== 3. Listening and responding to requests ======
-Created Monday 25 October 2021
-
