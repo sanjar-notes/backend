@@ -21,13 +21,13 @@ Advantages of MVC:
 * Very low impact of change among MVC.
 
 === What ===
-View:
+View (generate pages from data):
 	* Input: An object with data.
 	* Output: A page with data inserted in it. Ready for inflation/rendering.
-* Model
+* Model (talk to DB, check/process stuff according to business logic).
 	* Input: A request object, containing payload from user. To be processed according to business logic, data may be persisted.
 	* Output: A response object, containing responses and/or status codes.
-* Controller (agnostifier)
+* Controller (handles browser stuff + call View, Model)
 	* View facing:
 		* Output: Data ready for page generation functions.
 		* Input: Generated page.
