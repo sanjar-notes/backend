@@ -7,8 +7,12 @@
         "id": "495c07cdb0d4b631",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "home/2._Resources.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/2._Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,5 +88,10 @@
     "collapsed": true
   },
   "active": "495c07cdb0d4b631",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "home/2._Resources.md",
+    "home/1._Learning_roadmap.md",
+    "home/0._Motivation.md",
+    "home/assets/pasted_image.png"
+  ]
 }
