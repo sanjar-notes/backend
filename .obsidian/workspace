@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "home/3_Resources/1_nodejs_expressjs/0_source.md",
+            "file": "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home/3_Resources/1_nodejs_expressjs/0_source.md",
+                "file": "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "495c07cdb0d4b631",
   "lastOpenFiles": [
-    "home/3_Resources/1_nodejs_expressjs/0_source.md",
-    "home/2._Resources.md",
-    "home/1._Learning_roadmap.md",
-    "home/0._Motivation.md",
-    "home/assets/pasted_image.png"
+    "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
+    "vault/1._Responsibilities/3._Listening_and_responding_to_requests.md",
+    "vault/1._Responsibilities/4._Persisting_data_-_Database.md",
+    "vault/1._Responsibilities/5._Generating_webpages.md",
+    "vault/1._Responsibilities/6._Sending_large_files,_buffering.md",
+    "vault/1._Responsibilities/7._Compute_-_running_heavy_programs.md",
+    "vault/1._Responsibilities.md",
+    "vault/2._Implementation/2._Software_architecture.md",
+    "vault/2._Implementation/1._System_Design.md",
+    "vault/2._Implementation/2._Software_architecture/1._MVC.md"
   ]
 }
