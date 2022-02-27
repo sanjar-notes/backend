@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
+            "file": "vault/notebook.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
+                "file": "vault/notebook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "495c07cdb0d4b631",
   "lastOpenFiles": [
-    "vault/1._Responsibilities/2._Programs_on_the_server_-_primer.md",
-    "vault/1._Responsibilities/3._Listening_and_responding_to_requests.md",
-    "vault/1._Responsibilities/4._Persisting_data_-_Database.md",
-    "vault/1._Responsibilities/5._Generating_webpages.md",
-    "vault/1._Responsibilities/6._Sending_large_files,_buffering.md",
-    "vault/1._Responsibilities/7._Compute_-_running_heavy_programs.md",
-    "vault/1._Responsibilities.md",
-    "vault/2._Implementation/2._Software_architecture.md",
-    "vault/2._Implementation/1._System_Design.md",
-    "vault/2._Implementation/2._Software_architecture/1._MVC.md"
+    "vault/notebook.md",
+    "README.md",
+    "vault/1_Responsibilities/1_Communicating_with_the_server/1_The_Internet.md",
+    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer.md",
+    "vault/1_Responsibilities/3_Listening_and_responding_to_requests.md",
+    "vault/1_Responsibilities/4_Persisting_data_-_Database.md",
+    "vault/1_Responsibilities/5_Generating_webpages.md",
+    "vault/1_Responsibilities/6_Sending_large_files,_buffering.md",
+    "vault/1_Responsibilities/7_Compute_-_running_heavy_programs.md",
+    "vault/1_Responsibilities.md"
   ]
 }
