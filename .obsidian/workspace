@@ -7,8 +7,12 @@
         "id": "495c07cdb0d4b631",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "home/3_Resources/1_nodejs_expressjs/2_Some_built_in_modules.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "home/3_Resources/1_nodejs_expressjs/2_Some_built_in_modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "495c07cdb0d4b631",
   "lastOpenFiles": [
+    "home/3_Resources/1_nodejs_expressjs/2_Some_built_in_modules.md",
+    "home/3_Resources/1_nodejs_expressjs/1_Browser_node_differences.md",
+    "home/1_Motivation.md",
+    "home/3_Resources/1_nodejs_expressjs/0_source 1.md",
+    "home/3_Resources/1_nodejs_expressjs/0_source.md",
+    "assets/pasted_image.png",
+    "assets/MVC_img.png",
     "vault/notebook.md",
     "README.md",
-    "vault/1_Responsibilities/1_Communicating_with_the_server/1_The_Internet.md",
-    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer.md",
-    "vault/1_Responsibilities/3_Listening_and_responding_to_requests.md",
-    "vault/1_Responsibilities/4_Persisting_data_-_Database.md",
-    "vault/1_Responsibilities/5_Generating_webpages.md",
-    "vault/1_Responsibilities/6_Sending_large_files,_buffering.md",
-    "vault/1_Responsibilities/7_Compute_-_running_heavy_programs.md",
-    "vault/1_Responsibilities.md"
+    "vault/1_Responsibilities/1_Communicating_with_the_server/1_The_Internet.md"
   ]
 }
