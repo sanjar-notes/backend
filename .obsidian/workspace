@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/1_Responsibilities/3_Listening_and_responding_to_requests/3_Routing.md",
+            "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453
+    "width": 453,
+    "collapsed": true
   },
   "right": {
     "id": "4eb043f3b50f196c",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/1_Responsibilities/3_Listening_and_responding_to_requests/3_Routing.md",
+                "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +90,15 @@
   },
   "active": "495c07cdb0d4b631",
   "lastOpenFiles": [
+    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
+    "vault/1_Responsibilities/1_Communicating_with_the_server.md",
+    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer.md",
     "vault/1_Responsibilities/3_Listening_and_responding_to_requests/3_Routing.md",
     "vault/1_Responsibilities/3_Listening_and_responding_to_requests/2_APIs.md",
     "vault/1_Responsibilities/3_Listening_and_responding_to_requests/1_Server_program.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server/0_Networking.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server/1_The_Internet.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server/2_IP_and_TCP_-_specifics.md",
-    "vault/1_Responsibilities/1_Communicating_with_the_server.md",
-    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer.md",
-    "vault/1_Responsibilities/3_Listening_and_responding_to_requests.md",
-    "vault/2_Implementation/2_Software_architecture.md"
+    "vault/1_Responsibilities/3_Listening_and_responding_to_requests.md"
   ]
 }
