@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
+            "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/2_Cookies.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
+                "file": "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/2_Cookies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,8 +80,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "470e27b2c398fdf0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +99,7 @@
   },
   "active": "495c07cdb0d4b631",
   "lastOpenFiles": [
+    "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/2_Cookies.md",
     "vault/1_Responsibilities/2_Programs_on_the_server_-_primer/1_User_Authentication.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server.md",
     "vault/1_Responsibilities/2_Programs_on_the_server_-_primer.md",
@@ -98,7 +108,6 @@
     "vault/1_Responsibilities/3_Listening_and_responding_to_requests/1_Server_program.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server/0_Networking.md",
     "vault/1_Responsibilities/1_Communicating_with_the_server/1_The_Internet.md",
-    "vault/1_Responsibilities/1_Communicating_with_the_server/2_IP_and_TCP_-_specifics.md",
-    "vault/1_Responsibilities/3_Listening_and_responding_to_requests.md"
+    "vault/1_Responsibilities/1_Communicating_with_the_server/2_IP_and_TCP_-_specifics.md"
   ]
 }
