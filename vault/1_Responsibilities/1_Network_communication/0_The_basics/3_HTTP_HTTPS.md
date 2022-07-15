@@ -17,6 +17,7 @@ HTTP - HyperText Transfer Protocol
 This is used for communicating with the server.
 
 FIXME - add HTTP details
+FIXME - Read and describe HTTP flow using https://developer.mozilla.org/en-US/docs/Web/HTTP
 Last 15 (6 + 9 videos) <https://classroom.udacity.com/courses/ud171/lessons/8237341161/concepts/last-viewed>
 
 Useful article: <https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177>
