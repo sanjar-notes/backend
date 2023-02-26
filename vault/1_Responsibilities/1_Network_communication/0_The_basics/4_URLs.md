@@ -6,4 +6,3 @@ FIXME - https://classroom.udacity.com/courses/ud171/lessons/8237341161/concepts/
 FIXME - what is URI
 
 FIXME Query params - https://classroom.udacity.com/courses/ud171/lessons/8237341161/concepts/480119770923
-

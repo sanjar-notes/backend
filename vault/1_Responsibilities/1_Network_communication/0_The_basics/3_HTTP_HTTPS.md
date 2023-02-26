@@ -2,15 +2,11 @@
 Created Monday 25 October 2021
 
 ## Why
-
-* We need a way to communicate with other computers on the network.
-* Communicate with servers.
-
+- We need a way to communicate with other computers on the network.
+- Communicate with servers.
 
 ## How
-
-* A simple way to do this using a request-response model.
-
+- A simple way to do this using a request-response model.
 
 ## What
 HTTP - HyperText Transfer Protocol
@@ -21,4 +17,3 @@ FIXME - Read and describe HTTP flow using https://developer.mozilla.org/en-US/do
 Last 15 (6 + 9 videos) https://classroom.udacity.com/courses/ud171/lessons/8237341161/concepts/last-viewed
 
 Useful article: https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177
-

@@ -23,4 +23,3 @@ So, AJAX is just a way to do stuff. It's a combination of basic tools:
 3. Render the page partially
 
 Done!
-
