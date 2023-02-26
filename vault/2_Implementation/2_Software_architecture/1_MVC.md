@@ -3,13 +3,13 @@ Created Tuesday 14 December 2021
 
 Short for Model View Controller.
 
-#### Why
+## Why
 Separation Of Concerns.
 ![](MVC_img.png)
 
-#### How
+## How
 
-* Just create 3 component apps, that are blind to each other. 
+* Just create 3 component apps, that are blind to each other.
 * These 3 components have a fixed inputs and outputs, i.e. rigid interface.
 * This "fixedness" of inputs and outputs allows for abstraction in the whole app, i.e. one can change one component without having any effect on the other two.
 
@@ -20,7 +20,7 @@ Advantages of MVC:
 * Very low impact of change among MVC.
 
 
-#### What
+## What
 View (generate pages from data):
 
 * Input: An object with data.
@@ -41,7 +41,7 @@ View (generate pages from data):
 	* Output: Generated page with network details.
 
 
-Note: 
+Note:
 
 * Router is different from Controller, so the **Controller knows the decided route.**
 * FMTC - Fat Model Thin Controller is the goal. Controller should preferably represent 4 function calls, nested within each other, like so.
@@ -56,7 +56,7 @@ responseData = Model.process(request, route);
 groomedResponseData = Controller.groomForView(responseData);
 generatedPage = View.generatePage(goomedResponseData, route);
 return generatedPage;
-	
+
 // or, simply 4 nested calls
 return View.generatePage(Controller.groomForView(Model.process(Controller.cleanRequest(request), route)), route);
 }

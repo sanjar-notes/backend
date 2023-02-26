@@ -1,7 +1,7 @@
 # 0. Singular architecture
 Created Tuesday 14 December 2021
 
-#### Why
+## Why
 
 * For very simple apps or for Web1.0 apps, where static files had to be server.
 * The whole file was kind of a hash table with key=URL, value=File. That's all.
