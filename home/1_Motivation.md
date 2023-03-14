@@ -13,5 +13,5 @@ The infrastructure providing data to the front-end (for presentation) is the bac
 #### What
 So, backend is the part of the web app that user don't directly interact with. This is the 2nd half of web development.
 
-![](pasted_image.png)
+![](1_Motivation-image-1.png)
 

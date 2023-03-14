@@ -2,4 +2,4 @@
 Created Sunday 27 February 2022
 
 Some differences are:
-![](Pasted%20image%2020220227201330.png)
+![](1_Browser_node_differences-image-1.png)
