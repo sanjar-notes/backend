@@ -5,7 +5,7 @@ Short for Model View Controller.
 
 #### Why
 Separation Of Concerns.
-![](MVC_img.png)
+![](1_MVC-image-1.png)
 
 #### How
 
