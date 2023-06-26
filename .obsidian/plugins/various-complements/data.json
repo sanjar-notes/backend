@@ -46,5 +46,94 @@
     "maxNumberOfHistoryToKeep": 0
   },
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "Consequently": {
+      "Consequently": {
+        "customDictionary": {
+          "count": 3,
+          "lastUpdated": 1686407138373
+        }
+      }
+    },
+    "disadvantage": {
+      "disadvantage": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1686197057926
+        }
+      }
+    },
+    "lifeFlowData": {
+      "lifeFlowData": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685729171839
+        }
+      }
+    },
+    "intuitive": {
+      "intuitive": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1686195574496
+        }
+      }
+    },
+    "entities": {
+      "entities": {
+        "customDictionary": {
+          "count": 2,
+          "lastUpdated": 1686197147542
+        }
+      }
+    },
+    "newProduct": {
+      "newProduct": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686197315841
+        }
+      }
+    },
+    "chaining": {
+      "chaining": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1687006943414
+        }
+      }
+    },
+    "irrelevant": {
+      "irrelevant": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1687092880259
+        }
+      }
+    },
+    "MyModel": {
+      "MyModel": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1687690806558
+        }
+      }
+    },
+    "Technically": {
+      "Technically": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1687692010010
+        }
+      }
+    },
+    "inconvenient": {
+      "inconvenient": {
+        "customDictionary": {
+          "count": 1,
+          "lastUpdated": 1687725030833
+        }
+      }
+    }
+  }
 }
