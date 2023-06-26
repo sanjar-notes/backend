@@ -66,7 +66,7 @@ Note: not worrying about deleting cookies, as well as parser tools.
 - `Secure` - boolean property. discussed ahead.
 
 
-## Section 3: Creating Types
+## Section 3: Cookie Types
 Note: These are just terms used in web development, they are not defined in a standard.
 
 - Session cookie - A cookie that gets deleted when the browser is closed. Example - a cookie that doesn't have a `expires` and `max-age` property.
@@ -77,11 +77,10 @@ Note: These are just terms used in web development, they are not defined in a st
 - Zombie cookie - a nagging way to track users. browsers have a storage area for 'E tags', which cannot be cleared easily (this was true in the past, atleast). This area is meant for caching stuff when a resource is requested. If a request is made to the same resource, the 'E tag' is sent automatically, the server compares the received 'E tag' to the resource's hash, and if it matches, sends 304 (Not modified). **In other words**, if the server generated the first E  tag using the IP address + resource content, and you clear cookies and make the request again, it will know that it's you (since it will generate the hash from IP address + content and know that such a hash was generated already). **Fun fact: cookies are in no way involved in this, but due to 'tracking' nature, it's termed like a zombie cookie**.
 
 
-## Section 4: Creating Security
-- Stealing cookies. Some ways to do this:
-	1. Steal cookies using `document.cookie`
-		- How - find a way to run client side code on the victim site you wish to attack, by adding an add banner to the victim site or something.
-		- Fix - use `Httponly` property on sensitive cookies, so they can't be accessed by client side code.
-	1. CSRF (Cross Site Request Forgery) - a valid "action" link on a shady site (bankofamerica example). 
-		- How - add a valid "action" link and make the user click it (trick them into thinking it's a harmless link)
-		- Fix - use the `samesite=strict` property, so cookies are not sent if you're not on the original site.
+## Section 4: Cookie Security
+1. Steal cookies using `document.cookie`
+	- How - find a way to run client side code on the victim site you wish to attack, by adding an add banner to the victim site or something.
+	- Fix - use `Httponly` property on sensitive cookies, so they can't be accessed by client side code.
+1. CSRF (Cross Site Request Forgery) - a valid "action" link on a shady site (bankofamerica example). 
+	- How - add a valid "action" link and make the user click it (trick them into thinking it's a harmless link)
+	- Fix - use the `samesite=strict` property, so cookies are not sent if you're not on the original site.
