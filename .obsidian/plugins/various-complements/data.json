@@ -1,6 +1,11 @@
 {
   "strategy": "default",
+  "cedictPath": "./cedict_ts.u8",
   "matchStrategy": "prefix",
+  "fuzzyMatch": true,
+  "minFuzzyMatchScore": 0.5,
+  "matchingWithoutEmoji": true,
+  "treatAccentDiacriticsAsAlphabeticCharacters": false,
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -10,6 +15,11 @@
   "disableSuggestionsDuringImeOn": false,
   "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": ":/^",
+  "useCommonPrefixCompletionOfSuggestion": false,
+  "patternsToSuppressTrigger": [
+    "^~~~.*",
+    "^```.*"
+  ],
   "showMatchStrategy": true,
   "showComplementAutomatically": true,
   "showIndexingStatus": true,
@@ -38,102 +48,22 @@
   "enableInternalLinkComplement": true,
   "suggestInternalLinkWithAlias": false,
   "excludeInternalLinkPathPrefixPatterns": "",
+  "updateInternalLinksOnSave": true,
+  "insertAliasTransformedFromDisplayedInternalLink": {
+    "enabled": false,
+    "beforeRegExp": "",
+    "after": ""
+  },
+  "frontMatterKeyForExclusionInternalLink": "",
   "enableFrontMatterComplement": true,
   "frontMatterComplementMatchStrategy": "inherit",
   "insertCommaAfterFrontMatterCompletion": false,
   "intelligentSuggestionPrioritization": {
+    "historyFilePath": "",
     "maxDaysToKeepHistory": 30,
     "maxNumberOfHistoryToKeep": 0
   },
+  "disableOnMobile": false,
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {
-    "Consequently": {
-      "Consequently": {
-        "customDictionary": {
-          "count": 3,
-          "lastUpdated": 1686407138373
-        }
-      }
-    },
-    "disadvantage": {
-      "disadvantage": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1686197057926
-        }
-      }
-    },
-    "lifeFlowData": {
-      "lifeFlowData": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1685729171839
-        }
-      }
-    },
-    "intuitive": {
-      "intuitive": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1686195574496
-        }
-      }
-    },
-    "entities": {
-      "entities": {
-        "customDictionary": {
-          "count": 2,
-          "lastUpdated": 1686197147542
-        }
-      }
-    },
-    "newProduct": {
-      "newProduct": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1686197315841
-        }
-      }
-    },
-    "chaining": {
-      "chaining": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1687006943414
-        }
-      }
-    },
-    "irrelevant": {
-      "irrelevant": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1687092880259
-        }
-      }
-    },
-    "MyModel": {
-      "MyModel": {
-        "currentVault": {
-          "count": 1,
-          "lastUpdated": 1687690806558
-        }
-      }
-    },
-    "Technically": {
-      "Technically": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1687692010010
-        }
-      }
-    },
-    "inconvenient": {
-      "inconvenient": {
-        "customDictionary": {
-          "count": 1,
-          "lastUpdated": 1687725030833
-        }
-      }
-    }
-  }
+  "selectionHistoryTree": {}
 }
